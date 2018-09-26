@@ -9,6 +9,6 @@
   "author": "Antoine Mayerowitz",
   "license": "ISC",
   "dependencies": {
-    "twit": "^2.2.11"
+    "twitter": "^1.7.1"
   }
 }
